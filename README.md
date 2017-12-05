@@ -10,6 +10,6 @@ Camera Effects
 
 This is my Camera Effects Project.
 
-![picture_title](picture filename?raw=true "Optional Title")
+![Sadie](https://github.com/sadieannmadding/sadieannmadding.github.io/blob/master/Sadie.PNG?raw=true "Optional Title")
 
 ***
